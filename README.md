@@ -1,6 +1,6 @@
 # shutdown
 
-A Go module for executing a behaviour when application is shutdown.
+A Go module for executing a behaviour when application is shutdown by an external signal.
 
 ```go
 package main
