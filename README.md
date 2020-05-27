@@ -1,4 +1,4 @@
-# shutdown
+# Shutdown
 
 A Go module for executing a behaviour when application is shutdown by an external signal.
 
